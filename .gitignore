@@ -1,0 +1,11 @@
+# javac files
+*.class
+
+# log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+out/
