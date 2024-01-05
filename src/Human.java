@@ -3,8 +3,6 @@ import java.util.Random;
 /**
  * COMP90041, Sem1, 2023: Final Project
  * @author: Thuy Linh Nguyen
- * Student ID: 1397876
- * Student Email: linh.nguyen3@student.unimelb.edu.au
  * A class for defining human characteristics and randomly generating human.
  * It is an inheritance of Character class.
  */

@@ -4,8 +4,6 @@ import java.util.Scanner;
 /**
  * COMP90041, Sem1, 2023: Final Project
  * @author: Thuy Linh Nguyen
- * Student ID: 1397876
- * Student Email: linh.nguyen3@student.unimelb.edu.au
  * A class for importing input data and throwing exception where applicable.
  *
  */

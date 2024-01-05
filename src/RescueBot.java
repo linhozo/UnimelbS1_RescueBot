@@ -10,8 +10,6 @@ import java.util.Scanner;
 /**
  * COMP90041, Sem1, 2023: Final Project
  * @author: Thuy Linh Nguyen
- * Student ID: 1397876
- * Student Email: linh.nguyen3@student.unimelb.edu.au
  *
  * <h1>RescueBot - A decision engine designed to explore different scenarios, prioritize
  * and determine the order of rescue operations in life-threatening situations</h1>
