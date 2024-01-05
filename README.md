@@ -91,5 +91,8 @@ The project was evaluated based on the effectiveness of the decision algorithm, 
 ## My high-level class design:
 <img width="857" alt="image" src="https://github.com/linhozo/UnimelbS1_RescueBot/assets/93761488/0d7f8e73-bce5-4435-8cdb-85bd3fcac02f">
 
+## My log file design:
+[Link](https://github.com/linhozo/UnimelbS1_RescueBot/blob/main/src/rescuebot.log)
+
 ## My result:
 <img width="1265" alt="image" src="https://github.com/linhozo/UnimelbS1_RescueBot/assets/93761488/49472fcc-6afc-4aea-a3af-6cab6ebd5636">
