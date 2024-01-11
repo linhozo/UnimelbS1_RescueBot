@@ -6,7 +6,7 @@ This is the final individual project of the Course [COMP90041 Programming and So
 Each student is a software developer at RescueBots Inc., a pioneering robotics company dedicated to creating technology that aids in life-threatening situations, particularly during natural disasters such as bushfires and floods. The company has recently unveiled a fleet of autonomous robots capable of navigating unknown terrains to locate and rescue individuals in need. While these RescueBots have proven effective, there is a critical need for a decision engine to enhance their autonomy. The decision engine is tasked with prioritizing and determining the order of rescue operations, a challenge with significant ethical and moral implications.
 
 ## Project Overview:
-In this project, students will be responsible for creating the decision engine for RescueBots. The objective is to develop a program that explores different scenarios and makes critical decisions about which location to save during rescue operations. The scenarios involve multiple locations, each with distinct longitudes and latitudes, and inhabitants with varying characteristics, including gender, age, and weight. The program must decide which location to save in each scenario, considering that the robots can only rescue one location at a time.
+In this project, students are responsible for creating the decision engine for RescueBots. The objective is to develop a program that explores different scenarios and makes critical decisions about which location to save during rescue operations. The scenarios involve multiple locations, each with distinct longitudes and latitudes, and inhabitants with varying characteristics, including gender, age, and weight. The program must decide which location to save in each scenario, considering that the robots can only rescue one location at a time.
 
 ## Key Features:
 
@@ -94,5 +94,3 @@ The project was evaluated based on the effectiveness of the decision algorithm, 
 ## My log file design:
 [Link](https://github.com/linhozo/UnimelbS1_RescueBot/blob/main/src/rescuebot.log)
 
-## My result:
-<img width="1265" alt="image" src="https://github.com/linhozo/UnimelbS1_RescueBot/assets/93761488/49472fcc-6afc-4aea-a3af-6cab6ebd5636">
